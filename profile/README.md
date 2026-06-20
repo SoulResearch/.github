@@ -1,6 +1,6 @@
 <div align="center">
 
-# Soul · Research
+# Soul Research
 
 ### Empathy & Safe Embodied Intelligence
 
