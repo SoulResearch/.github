@@ -8,7 +8,7 @@ We build embodied intelligence that **understands people**, physical AI that rea
 emotional and social context of a room, acts with care, and stays safe around the people
 it works beside.
 
-**[Visit soulresearch.github.io →](https://soulresearch.github.io)**
+**[Visit Us →](https://soulresearch.github.io)**
 
 </div>
 
