@@ -4,7 +4,7 @@
 
 ### Empathy & Safe Embodied Intelligence
 
-We build embodied intelligence that **understands people** — physical AI that reads the
+We build embodied intelligence that **understands people**, physical AI that reads the
 emotional and social context of a room, acts with care, and stays safe around the people
 it works beside.
 
