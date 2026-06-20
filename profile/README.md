@@ -1,7 +1,5 @@
 <div align="center">
 
-# Soul Research
-
 ### Empathy & Safe Embodied Intelligence
 
 We build embodied intelligence that **understands people**, physical AI that reads the
@@ -11,8 +9,6 @@ it works beside.
 **[Visit Us](https://soulresearch.github.io)**
 
 </div>
-
----
 
 ### What we do
 
@@ -24,11 +20,3 @@ when to wait, and how to remain predictable when the world around it is not.
 At the center is a **world model that includes people** — not just objects and obstacles,
 but intentions, attention, and emotional state — so the system can predict how a moment will
 unfold and choose the action a careful person would.
-
-### Our pillars
-
-- **Empathy** — systems that model the emotional and social state of the people around them.
-- **Safety** — agents that are predictable, interruptible, and aligned with human intent.
-- **Embodiment** — intelligence grounded in real perception, manipulation, and movement.
-
-> A machine that truly understands people is **safer to be near.**
